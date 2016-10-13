@@ -3,7 +3,7 @@
 # Name		: obsondeb
 # Version	: 1.0
 # Author	: Younes SERRAJ
-# Description	: Install obs-studio on a debian
+# Description	: Install obs-studio on debian
 
 version="1.0"
 magictag="#obsondeb"
