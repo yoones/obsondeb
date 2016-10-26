@@ -14,3 +14,5 @@ Some useful obsondeb commands are:
 
 You can get the latest version at https://github.com/yoones/obsondeb
 ```
+
+Please note that this script does not fix problems related to OBS failing to run on dual gpu computers.
